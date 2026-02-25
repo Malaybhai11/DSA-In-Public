@@ -1,0 +1,11 @@
+Brute Approach:
+Time Complexity: O(n)
+Space Complexity: O(n)
+
+Two Pointer Approach:
+Time Complexity: O(n)
+Space Complexity: O(1)
+
+Optimization Insight:
+We remove the need for extra array
+by rearranging elements in-place.
